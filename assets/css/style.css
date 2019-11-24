@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://media.gq.com/photos/59447d75165c2959e55471d0/master/pass/vegas-best-burgers.gif");
+    background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+  }
+
+#display {
+  font-family: 'Orbitron', sans-serif;;
+  /* src: url('put_the_location_to_your_font.ttf or .otf'); */
+  font-size: 120px;
+  color: orange;
+
+  /* Typography */
+  text-align: center;
+
+  /* Visual */
+  background: black;
+}
+
+#logo{
+  font-family: Impact, Charcoal, sans-serif;
+  color:aliceblue;
+  font-size: xx-large;
+}
+
+
+#main-container {
+  padding-top: 130px;
+  min-height: calc(100vh - 70px);
+}
+
+
+
